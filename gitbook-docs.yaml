@@ -15,4 +15,4 @@ site:
           default: true
           content:
             directory: ./
-            language: pt
+            language: pt-br
