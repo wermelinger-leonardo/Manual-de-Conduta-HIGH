@@ -6,6 +6,7 @@ site:
       key: manual-high
       title: Manual de Conduta
       path: manual
+      default: true
       children:
         - type: space
           key: manual-conduta-high
