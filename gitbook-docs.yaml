@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Manual de Conduta HIGH
+  structure:
+    - type: section
+      key: manual-high
+      title: Manual de Conduta
+      path: manual
+      children:
+        - type: space
+          key: manual-conduta-high
+          title: Manual de Conduta HIGH
+          path: conduta
+          default: true
+          content:
+            directory: ./
+            language: pt
